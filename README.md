@@ -133,5 +133,5 @@ export default CreateNote;
 ...
 
 ## 📋 6. Kesimpulan
-Selamat! Anda telah berhasil membuat aplikasi CRUD menggunakan React dan Tailwind CSS. Silakan lanjutkan dengan menambahkan fitur-fitur baru dan styling yang menarik.
+Tugas UAS membuat aplikasi CRUD sederhana menggunakan React dan Tailwind CSS. Silakan dulur-dulur lanjutkan dengan menambahkan fitur-fitur baru dan styling yang menarik.
 
